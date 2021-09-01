@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "projetoExpo2021.1",
-    "slug": "projetoExpo2021.1",
+    "name": "projetoExpo2021_1",
+    "slug": "projetoExpo2021_1",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "projetoExpo2021.1"
+  "name": "projetoExpo2021_1"
 }
